@@ -6,7 +6,7 @@
 ---
 This Project provides to create posts and comments for existing blogs, authors and commentators
 
-##Summary
+## Summary
 
 This is an API for network of blogs, where different blogs can be created,
 authors can share different posts on related blogs and commentators can comment
@@ -60,14 +60,14 @@ JUnit test coverage is 100% as well as integration test are available
 * Flyway 8.0.0
 
 
-###Prerequisites
+## Prerequisites
 
 ---
 * Maven
 * PostgreSQL
 
 
-###Run & Build
+### Run & Build
 
 SPORT:8080
 ```
